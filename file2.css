@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    font-family: 'Arial';
+}
+.pr-pr + .pr-pr{
+    padding-top: 20px;
+}
